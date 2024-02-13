@@ -77,9 +77,7 @@ class _MyhomepageState extends State<Myhomepage> {
                   ),
                   keyboardType: TextInputType.number,
                 ),
-                SizedBox(
-                  height: 11,
-                ),
+
                 TextField(
                   controller: inController,
                   decoration: InputDecoration(
